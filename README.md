@@ -29,3 +29,6 @@
 <li>bash shell into container <em><strong>docker exec -i -t <container> /bin/bash</container></strong></em> - if bash is not available use /bin/sh</li>
 <li>bash shell with root if container is running in a different user context <strong><em>docker exec -i -t -u root <container> /bin/bash</container></em></strong></li>
 </ul>
+
+## SOME iMPORTANT lINKS
+https://gist.github.com/giansalex/2776a4206666d940d014792ab4700d80
